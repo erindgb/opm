@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="3b.css"?>
+
+<!DOCTYPE listing>
+
+<Listings>
+
+  <Head>OPM (Original Pinoy Music) Set List</Head>
+
+  <Listing>
+    <Artist>APO Hiking Society</Artist>
+    <Song>Yakap Sa Dilim</Song>
+    <Genre>Pinoy rock</Genre>
+    <Release>1983</Release>
+  </Listing>
+
+  <Listing type = "song">
+    <Artist>Eraserheads</Artist>
+    <Song>Ang Huling El Bimbo</Song>
+    <Genre>Pinoy rock</Genre>
+    <Release>1996</Release>
+  </Listing>
+
+  <Listing type = "song">
+    <Artist>Orange and Lemons</Artist>
+    <Song>Hanggang Kailan</Song>
+    <Genre>Indie pop</Genre>
+    <Release>2005</Release>
+  </Listing>
+
+  <Listing type = "song">
+    <Artist>APO Hiking Society</Artist>
+    <Song>Awit ng Barkada</Song>
+    <Genre>Pop</Genre>
+    <Release>1988</Release>
+  </Listing>
+
+  <Listing type = "song">
+    <Artist>Eraserheads</Artist>
+    <Song>With a Smile</Song>
+    <Genre>Indie pop</Genre>
+    <Release>1994</Release>
+  </Listing>
+
+  <Listing type = "song">
+    <Artist>Eraserheads</Artist>
+    <Song>Alapaap</Song>
+    <Genre>Pinoy rock</Genre>
+    <Release>1994</Release>
+  </Listing>
+
+  <Listing type = "song">
+    <Artist>Sandwich</Artist>
+    <Song>Betamax</Song>
+    <Genre>Alternative rock</Genre>
+    <Release>2008</Release>
+  </Listing>
+
+  <Listing type = "song">
+    <Artist>Boyfriends</Artist>
+    <Song>Sumayaw Sumunod</Song>
+    <Genre>Disco pop</Genre>
+    <Release>2001</Release>
+  </Listing>
+
+  <Listing type = "song">
+    <Artist>Eraserheads</Artist>
+    <Song>Maling Akala</Song>
+    <Genre>Pop</Genre>
+    <Release>1993</Release>
+  </Listing>
+
+  <Listing type = "song">
+    <Artist>Eraserheads</Artist>
+    <Song>Huwag Kang Matakot</Song>
+    <Genre>Pinoy rock</Genre>
+    <Release>1999</Release>
+  </Listing>
+
+</Listings>

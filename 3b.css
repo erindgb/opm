@@ -1,0 +1,50 @@
+Head {
+  display: block;
+  text-align: center;
+  font-size: 50px;
+  color: #453213;
+  font-weight: bold;
+  padding: 20px 20px;
+  }
+
+Listings {
+  display: block;
+  padding: 20px 20px;
+  background-color: #dfd3a8;
+  }
+
+Listing {
+  text-align: center;
+  display: block;
+  padding: 20px 20px;
+  border: 2px solid #6a4c18;
+  margin-bottom: 30px;
+  background-color: #fef6c3;
+  margin-left: 10px;
+  margin-right: 10px;
+  }
+
+Artist {
+  display: block;
+  font-weight: bold;
+  font-size: 20px;
+  color: #523606;
+  }
+
+Song {
+  display: block;
+  font-style: italic;
+  font-size: 30px;
+  }
+
+Genre {
+  display: block;
+  color: #5b4636;
+  font-size: 15px;
+  }
+
+Release {
+  display: block;
+  color: #5b4636;
+  font-size: 15px;
+  }
